@@ -1,0 +1,60 @@
+{
+  "name": "Mancles",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "/images/coins/foo.png",
+  "keywords": [
+    "Mancles",
+    "Dai",
+    "Weth",
+    "usdc",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Mancels",
+      "symbol": "mancels",
+      "address": "0x15C78417EDc06E086fc263B2644faC8cF68fFc18",
+      "chainId": 5001,
+      "decimals": 18,
+      "logoURI": "/images/coins/cake.png"
+    },
+    {
+      "name": "Dai",
+      "symbol": "dai",
+      "address": "0xaaa17A76C38A071a4EFC0788a892FB0146BA36eA",
+      "chainId": 5001,
+      "decimals": 18,
+      "logoURI": "/images/coins/dai.png"
+    },
+    {
+      "name": "BIT",
+      "symbol": "WBIT",
+      "address": "0x525623135a3414F69D7caB97252b7c7119e8B6A3",
+      "chainId": 5001,
+      "decimals": 18,
+      "logoURI": "/images/coins/fil.png"
+    },
+    {
+      "name": "Weth",
+      "symbol": "Weth",
+      "address": "0x532C88424404a10A41A1a3bbD6016Aa0b27c909D",
+      "chainId": 5001,
+      "decimals": 18,
+      "logoURI": "/images/coins/eth.png"
+    },
+    {
+      "name": "usdc",
+      "symbol": "usdc",
+      "address": "0xA20aa0968C555cf984B52D530586108856a0A134",
+      "chainId": 5001,
+      "decimals": 6,
+      "logoURI": "/images/coins/usdc.png"
+    }
+  ]
+}
